@@ -12,5 +12,5 @@ public class test {
 
 // completed
 // hello hello everybody, are you all around? ~Vukašin 123
-// Hello its Altan=Ochir
+// Hello its Altan-Ochir
 
