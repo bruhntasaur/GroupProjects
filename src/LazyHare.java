@@ -9,4 +9,8 @@ public class LazyHare {
     static {
         System.out.println("This is something good");
     }
+
+    int year;
+    String name;
+
 }
