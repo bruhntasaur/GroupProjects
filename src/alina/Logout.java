@@ -1,5 +1,6 @@
 package alina;
 
 public class Logout {
-    //work is done 
+    //work is done
+
 }
