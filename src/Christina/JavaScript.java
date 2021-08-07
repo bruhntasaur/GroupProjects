@@ -5,5 +5,6 @@ public class JavaScript {
         System.out.println("Thanks God it's Saturday");
         System.out.println("TGIF!");
         //Request accepted
+        //This is a new merge approval request
     }
 }
